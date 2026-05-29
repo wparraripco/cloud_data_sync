@@ -1,6 +1,7 @@
 # Environment
 .env
 *.env
+local.settings.json
 
 # Virtual environment
 venv/
